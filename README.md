@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/R-green)
+
 Testing R in jupyter notebook
 
 # Power-Plant-with-R
