@@ -25,3 +25,7 @@ The real-world data we are using in this project consists of 9,568 data points, 
 -RH = Relative Humidity.
 
 -PE = Power Output. This is the value we are trying to predict given the measurements above.
+
+## Result
+
+After testing with 2 models, the model  with Extreme Gradient Boosting to predict power output had better results. We can see that it has better performance than linear model we tried in the first model. The RMSE with the test data decreased from more 4.5 to 3.1 and increase the R2 from 0.93 to 0.97.
