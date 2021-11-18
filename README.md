@@ -1,4 +1,5 @@
-![Python](https://img.shields.io/badge/R-green)
+![R](https://img.shields.io/badge/R-green)
+![XGBOOST](https://img.shields.io/badge/XGBOOST-orange)
 
 Testing R in jupyter notebook
 
